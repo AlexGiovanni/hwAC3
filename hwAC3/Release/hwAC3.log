@@ -1,0 +1,11 @@
+﻿  autocompleter.cpp
+c:\users\alexis\documents\hwac3\hwac3\autocompleter.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexis\documents\hwac3\hwac3\autocompleter.cpp(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexis\documents\hwac3\hwac3\autocompleter.cpp(127): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating code
+  0 of 373 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  hwAC3.vcxproj -> C:\Users\Alexis\Documents\hwAC3\Release\hwAC3.exe

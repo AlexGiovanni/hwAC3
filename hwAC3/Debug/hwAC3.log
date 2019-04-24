@@ -1,0 +1,7 @@
+﻿  autocompleter.cpp
+c:\users\alexis\documents\hwac3\hwac3\autocompleter.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexis\documents\hwac3\hwac3\autocompleter.cpp(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexis\documents\hwac3\hwac3\autocompleter.cpp(127): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  hwAC3.vcxproj -> C:\Users\Alexis\Documents\hwAC3\Debug\hwAC3.exe
